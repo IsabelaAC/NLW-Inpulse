@@ -1,8 +1,9 @@
 <h1 align="center">  Trilha Inpulse Next Level Week 8.0 </h1>
 
+Projeto construído a partir da Next Level Week, uma semana de aprendizados e construção completa de aplicações feita pela RocketSeat!
 
   <h4 align="center"> 
-      Projeto em construção 
+      Projeto em construção  :wrench:
 </h4>
 
 ##  :mag_right: Infraestrutura do Projeto
@@ -13,9 +14,13 @@
 
 ## 🛠️ Abrir e rodar o projeto
 
-Após a clonagem do repositório instalar o node.js e executar a API localmente, fazendo a requisição através do Postman. Por favor, não copie para fins profissionais ou lucrativos.
+
 
 ## :computer: Tecnologias utilizadas
+- JavaScript
+- TypeScript
+- HTML
+- CSS
 
   
  
